@@ -1,3 +1,18 @@
 body{
-	background-color:#Fed
+	background-color:#Fed;
+	min-height:100000px;
+	border:2px groove red;
+}
+.header-phone{
+	border:2px outset red;
+	min-width:90%;
+}
+.phonehd{
+	width:20%;
+}
+.email{
+	width:20%;
+}
+.socials{
+	width:40%;
 }
